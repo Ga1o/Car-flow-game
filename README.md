@@ -1,4 +1,4 @@
-* Car Flow gaame
+* Car Flow game
 
 Libraries:
 - pygame
